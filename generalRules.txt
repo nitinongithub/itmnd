@@ -1,0 +1,10 @@
+Rules for I.T. Master-Mind
+1.	Maximum two participants in a team can participate.
+2.	Elimination round will be conducted if the participation is more than six teams.
+3.	Six Team(s) can participate in final round.
+4.	The quiz is divided into 3 rounds.
+5.	Should there be a tie between two teams after the final round of the quiz, there will be a Tie-Breaker Round between the teams. In this round, each team will be required to answer five questions in a minute. No choice would be given in this round
+6.	Quiz Master’s decision will be final.
+7.	The time keeper shall start timing from the moment the anchor finishes asking a question, including options if any.
+8.	Rules for each round will be announced by the anchors before the round begins.
+9.	Any indiscipline activity found among participant would be the foundation to disqualify the particular team.
